@@ -1,0 +1,3 @@
+Username = inpit("what is your name:")
+num2 = input("how old are you:")
+num3 =
